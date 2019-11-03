@@ -1,0 +1,6 @@
+fr\meg\batch\service\ClientService.class
+fr\meg\batch\dao\ClientRepository.class
+fr\meg\batch\presentation\Vue.class
+fr\meg\batch\presentation\ServletController.class
+fr\meg\batch\service\ClientServiceImpl.class
+fr\meg\batch\domain\Client.class
